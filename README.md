@@ -1,5 +1,5 @@
-**Where do you see yourself in 5 years?**
+**Where do you see yourself in 5 years?**  
+_Next to a GPU._
 
-Next to a GPU.
-
+---
 ![gpu_less.jpg](https://i.imgur.com/HXlcZ1r.jpeg)
